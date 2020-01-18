@@ -4,6 +4,7 @@ ___
 
 ## Quick Explanation
 
+if you see weird symbols, then you should use a markdown extensions
 *this is a modified version of another site i made, so it might be broken.*
 
 ### my stuff
@@ -12,4 +13,4 @@ ___
 
 ### basic info and stuff
 
-this is just for fun, o nothing i particularly high effort.
+this is just for fun, nothing particularly high effort.
