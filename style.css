@@ -97,7 +97,7 @@
   }
   .dev {
     /*decides whether "dev" elements(things not necessary for public viewers) are shown,---set to "none"(no) or "inherit"(yes)*/
-    display: inherit;
+    display: none;
   }
   img {
     border-radius: 10px;
