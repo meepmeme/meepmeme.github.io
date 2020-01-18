@@ -30,7 +30,6 @@
   }
   .titlecard {
     border-radius: 5px;
-    background-image: url(download.png);
   }
   .content{
     border-radius: 5px;
@@ -98,7 +97,7 @@
   }
   .dev {
     /*decides whether "dev" elements(things not necessary for public viewers) are shown,---set to "none"(no) or "inherit"(yes)*/
-    display: none;
+    display: inherit;
   }
   img {
     border-radius: 10px;
