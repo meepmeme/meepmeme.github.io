@@ -4,7 +4,8 @@ ___
 
 ## Quick Explanation
 
-if you see weird symbols, then you should use a markdown extensions
+if you see weird symbols, then you should use a markdown extension
+
 *this is a modified version of another site i made, so it might be broken.*
 
 ### my stuff
