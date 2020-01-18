@@ -1,0 +1,109 @@
+
+
+
+.topnav {
+    padding: 5px;
+    overflow: auto;
+    background-color: #333333;
+    border-radius: 5px;
+  }
+  .topnav a {
+    border-radius: 10px;
+    padding: 14px 16px;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 5px;
+  }
+  .topnav a:hover {
+    background-color: #777777;
+    color: white;
+  }
+  .topnav a.active {
+    background-color: #4c50af;
+    color: white;
+  }
+  .topnav a:visited {
+    color: white;
+  }
+  .titlecard {
+    border-radius: 5px;
+    background-image: url(download.png);
+  }
+  .content{
+    border-radius: 5px;
+    background-color: #9a9a9a;
+  }
+  body {
+    font-family: "Product Sans";
+    text-align: left;
+    background-color: #515151;
+  }
+  table {
+    border-radius: 5px;
+    border-collapse: seperate;
+    border: 1px solid #434343;
+    text-align: left;
+  }
+  th {
+    border: 1px solid #434343;
+    border-radius: 5px;
+    text-align: left;
+  }
+  td {
+    border: 1px solid #434343;
+    border-radius: 5px;
+    text-align: left;
+  }
+  tr:hover {
+    background-color: #5a5a5a;
+    color: #e0e0e0;
+  }
+  p {
+    color: rgb(40, 40, 40);
+  }
+  @font-face {
+    font-family: "Product Sans";
+    src: url("PSans.ttf");
+  }
+  p.cite {
+    width: fit-content;
+    padding: 2px;
+    background-color: black;
+    color: yellow;
+    border-radius: 5px;
+    size: 10px;
+  }
+  li {
+    background-color: rgb(26, 26, 26);
+    color: rgb(250, 250, 250);
+    border-radius: 5px;
+    padding: 2px;
+    width: fit-content;
+  }
+  a {
+    color: #1bff54;
+    text-decoration: underline;
+  }
+  a:hover {
+    color: blue;
+  }
+  a:active {
+    color: yellow;
+  }
+  a:visited {
+    color: red;
+  }
+  .dev {
+    /*decides whether "dev" elements(things not necessary for public viewers) are shown,---set to "none"(no) or "inherit"(yes)*/
+    display: none;
+  }
+  img {
+    border-radius: 10px;
+    border: solid 5px #0055ff;
+  }
+  img.play {
+    height: 50px;
+  }

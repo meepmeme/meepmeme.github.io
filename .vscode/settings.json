@@ -1,0 +1,8 @@
+{
+    "markdown-preview-enhanced.enableScriptExecution": true,
+    "markdown-preview-enhanced.HTML5EmbedIsAllowedHttp": true,
+    "markdown-preview-enhanced.enableTypographer": true,
+    "markdown-preview-enhanced.enableHTML5Embed": true,
+    "markdown-preview-enhanced.enableExtendedTableSyntax": true,
+    "html.format.indentInnerHtml": true
+}
