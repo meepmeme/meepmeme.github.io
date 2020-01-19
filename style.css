@@ -99,6 +99,10 @@
     /*decides whether "dev" elements(things not necessary for public viewers) are shown,---set to "none"(no) or "inherit"(yes)*/
     display: none;
   }
+  .notdev {
+    /*set to opposite of the above*/
+    display: inherit;
+  }
   img {
     border-radius: 10px;
     border: solid 5px #0055ff;
