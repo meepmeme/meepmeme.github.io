@@ -15,3 +15,4 @@ this is a markdown document.
 ### basic info and stuff
 
 this is just for fun, nothing particularly high effort.
+There are some parts of this site that are hidden, and I intend to keep it that way. Don't userstyle your way to them.
