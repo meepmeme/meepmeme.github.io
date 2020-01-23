@@ -108,3 +108,7 @@
     border: solid 5px #0055ff;
     height: 200px;
   }
+    iframe {
+    border-radius: 10px;
+    border: solid 5px #0055ff;
+  }
